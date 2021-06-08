@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jannemecek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jannemecek.com
+  * I am jannemecek (https://keybase.io/jannemecek) on keybase.
+  * I have a public key ASBHORcvntLVHEU-GRglFxVPD5Y0sUlJ8emgzZVVvhZWXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203bdd49c0ac34483558b88d301ad4dce9bb023cd1089233b367e6e4ef90c9d9940a",
+      "host": "keybase.io",
+      "kid": "01204739172f9ed2d51c453e19182517154f0f9634b14949f1e9a0cd9555be16565e0a",
+      "uid": "a00a381da1927b13f54f6d008e667119",
+      "username": "jannemecek"
+    },
+    "merkle_root": {
+      "ctime": 1574071305,
+      "hash": "1203f8ca615fdec2a368e3c50b7953c9e18ad17fc869a18806faf5045a2944736089644fddaa92f4a030b179760d2d71231f4cc83d7c01241b58dc0f9578a59a",
+      "hash_meta": "f7caabff78e5afd5a2d7e79d707f6518ffde8b79b8a1e137ba077aaf3466230d",
+      "seqno": 10044019
+    },
+    "service": {
+      "entropy": "O8u9r3W62Zmz4pfpuyRr2ycP",
+      "hostname": "jannemecek.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574071311,
+  "expire_in": 504576000,
+  "prev": "31474bae58be90fc74d15f4ea5eb50a693bd4adeb5558c980626356babd68233",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRzkXL57S1RxFPhkYJRcVTw+WNLFJSfHpoM2VVb4WVl4Kp3BheWxvYWTESpcCGsQgMUdLrli+kPx00V9OpetQppO9St61VYyYBiY1a6vWgjPEIDBL/l5eQF3Vz2KkzxiqCA0Nob+OUT1OBteKaO0w8F+pAgHCo3NpZ8RAXx4YWEe9aXUifTaae+SpoxlgoYHBpjL9fwu1jjQ/4HJNXbJ7ny7DPZGiR7WM5F5AMz0PNpkhMPMqGJamp5R5AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILSTotpLmbzIM/2etlNWgukr04V2GN/faZBkX3hrvlt0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jannemecek
+
+==================================================================
