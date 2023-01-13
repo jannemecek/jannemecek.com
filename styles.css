@@ -49,6 +49,7 @@ h1 {
   font-weight: 300;
   color: black;
 }
+
 h2 {
   text-align: left;
   font-size: 3vw;
@@ -59,12 +60,19 @@ h2 {
   line-height: 1.25em;
   color: black;
 }
-p {
-  font-size:3vw;
+
+h3 {
+  font-size: 3vw;
   text-shadow: 1px 1px #FF91AF;
   font-family: -apple-system, ".SFNSText-Regular", "Roboto", sans-serif;
   font-weight: 300;
   color: white;
+}
+
+p {
+  font-size: 3vw;
+  font-family: -apple-system, ".SFNSText-Regular", "Roboto", sans-serif;
+  font-weight: 300;
 }
 
 a {
